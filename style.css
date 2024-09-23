@@ -10,6 +10,9 @@
 .banner h1 {
     font-size: 3.5rem;
     font-weight: bold;
+    color: white; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); 
+    
 }
 
 .banner p {
